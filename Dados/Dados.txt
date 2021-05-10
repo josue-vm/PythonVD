@@ -1,0 +1,10 @@
+Links pras fontes dos dados:
+
+World Inequality Database:
+https://wid.world/data/#countrytimeseries/sptinc_p90p100_z;sptinc_p0p50_z/BR/2001/2019/eu/k/p/yearly/s
+
+Atlas do desenvolvimento humano:
+https://basedosdados.org/en/dataset/mundo-onu-adh
+
+WIID - the World Income Inequality Database (Américas)
+https://www4.wider.unu.edu/#?indicators=Gini&chartType=Bar&countries=ar,bs,bb,bz,bo,br,ca,cl,co,cr,cu,dm,do,ec,sv,gt,gy,ht,hn,jm,mx,ni,pa,py,pe,pr,lc,sr,tt,us,uy,ve&years=2018,2017,2016,2015,2014,2013,2012,2011,2010&estimations=1
